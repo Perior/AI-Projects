@@ -1,1 +1,1 @@
-# AI-Projects
+# AI Exercises and Projects
